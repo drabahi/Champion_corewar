@@ -4,10 +4,10 @@ Champion_corewar
 Pour participer, vous devez rendre un champion ce doit être un fichier .s.
 
 Les programmes de référence sont réglés comme suit :
-
+----
 #define IND_SIZE 2
 #define REG_SIZE 4
-# define DIR_SIZE REG_SIZE
+#define DIR_SIZE REG_SIZE
 #define MAX_ARGS_NUMBER 4
 #define MAX_PLAYERS 4
 #define MEM_SIZE (4 * 1024)
@@ -27,4 +27,4 @@ Les programmes de référence sont réglés comme suit :
 #define MAX_CHECKS 10
 #define PROG_NAME_LENGTH 128
 #define COMMENT_LENGTH 2048
-
+----
