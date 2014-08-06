@@ -4,8 +4,8 @@ Champion_corewar
 Pour participer, vous devez rendre un champion ce doit être un fichier .s.
 
 Les contraintes variables sont réglées comme suit :
-----
-'''
+
+```
 #define IND_SIZE 2
 #define REG_SIZE 4
 #define DIR_SIZE REG_SIZE
@@ -28,4 +28,4 @@ Les contraintes variables sont réglées comme suit :
 #define MAX_CHECKS 10
 #define PROG_NAME_LENGTH 128
 #define COMMENT_LENGTH 2048
-'''
+```
